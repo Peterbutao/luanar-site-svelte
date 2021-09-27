@@ -81,7 +81,7 @@
     }
     
     :root{
-        --bc:#f5f5f5;
+        --bc:hsl(0, 0%, 93%);
         --tc:hsl(0, 0%, 25%);
         --lc:seashell;
         --bl:#2699fb;
@@ -140,7 +140,7 @@
                         text-decoration: none;
                         h1{
                             padding: 0px 15px;
-                            @include font(var(--tc), 1rem, 100);  
+                            @include font(var(--tc), 1rem, 500);  
                         }
                     }
                 }
@@ -236,7 +236,7 @@
                        @include font(var(--tc), 0.95rem, 800);
                     }
                     p{
-                        @include font(var(--bl), 0.7rem, 100)
+                        @include font(var(--bl), 0.8rem, 500)
                     }
                 }
                

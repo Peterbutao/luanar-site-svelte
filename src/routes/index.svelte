@@ -1,5 +1,8 @@
 <svelte:head>    
     <title>luanar timetable | HOME</title>
+    <meta name="description" content="luanar bssy timetable">
+    <meta name="author" content="peter butao">
+
 </svelte:head>
 <article>
     <header>
@@ -10,7 +13,7 @@
         <div class="links">
             <div class="lnk">
 
-                <a href="./src" class="card">
+                <a href="./src" download="bssy timetable" class="card">
                     <div class="cd">
                         <div class="text">
                             <h1>
@@ -47,7 +50,7 @@
         background: var(--bc);
         header{
             p{
-                @include font(var(--tc), 0.95rem, 100);
+                @include font(var(--tc), 0.95rem, 500);
             }
         }
         main{
