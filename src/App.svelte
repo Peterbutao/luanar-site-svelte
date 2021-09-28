@@ -31,9 +31,9 @@
             </div>
             <div class:open={open} on:click={() => {open = !open}} class="nav-bar">
                 <ul on:click={() => {open = open}} class="navlist">
-                    <li><a href="https://github.com/Peterbutao/luanar-website-svelte.git">GET INVOLVED</a></li>
-                    <li><a href="https://github.com/Peterbutao/luanar-website-svelte.git">DOCS</a></li>
-                    <li><a href="https://github.com/Peterbutao/luanar-website-svelte.git/licence">LICENCE</a></li>
+                    <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">GET INVOLVED</a></li>
+                    <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">DOCS</a></li>
+                    <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git/licence">LICENCE</a></li>
                     <li><a href="tel://0880164455">CONTACT</a></li>            
 
                 </ul>
@@ -56,9 +56,9 @@
                 </span>
             </div>
             <ul class="navlist">
-                <li><a href="https://github.com/Peterbutao/luanar-website-svelte.git">GET INVOLVED</a></li>
-                <li><a href="https://github.com/Peterbutao/luanar-website-svelte.git">DOCS</a></li>
-                <li><a href="https://github.com/Peterbutao/luanar-website-svelte.git">LICENCE</a></li>
+                <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">GET INVOLVED</a></li>
+                <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">DOCS</a></li>
+                <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">LICENCE</a></li>
                 <li><a href="tel://0880164455">CONTACT</a></li>            
 
             </ul>
