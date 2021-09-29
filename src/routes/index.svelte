@@ -14,14 +14,14 @@
         <div class="links">
             <div class="lnk">
 
-                <a href="./src/luanartimetable.apk" download="bssy timetable" class="card">
+                <a href="./src/bssytimetable.apk" download="bssy timetable" class="card">
                     <div class="cd">
                         <div class="text">
                             <h1>
                                 <span>1.0.0</span>
                                 <span style="color: var(--bl)">LTS</span>
                             </h1>
-                            <p>27/09/21</p>
+                            <p>29/september/21</p>
                         </div>
                         <div class="svg">
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110"><defs><clipPath id="a"><rect width="16" height="16" fill="none"/></clipPath></defs><g transform="translate(-259 -236)"><rect width="110" height="110" transform="translate(259 236)" fill="rgba(38,153,251,0.05)"/><g transform="translate(306 282)" clip-path="url(#a)"><path d="M8,0,6.545,1.455l5.506,5.506H0V9.039H12.052L6.545,14.545,8,16l8-8Z" transform="translate(16) rotate(90)" fill="rgba(38,153,251,0.53)"/></g></g></svg>

@@ -74,14 +74,15 @@
 <style lang="scss">
     :global(body) {
         color: blue;
-        background: var(--bc);
+        background: var(--nv);
         margin: 0;
         padding: 0;
         box-sizing: border-box;
     }
     
     :root{
-        --bc:hsl(0, 0%, 93%);
+        --bc:hsl(0, 0%, 95%);
+        --nv:hsl(0, 0%, 92%);
         --tc:hsl(0, 0%, 25%);
         --lc:seashell;
         --bl:#2699fb;
@@ -105,14 +106,14 @@
             z-index: 99;
             position: fixed;
             width: 100%;
-            background: var(--bc);
+            background: var(--nv);
             top: 0;
             left: 0;
             .nv{
                 box-shadow: #0000002c 0px 3px 11px 0px;
                 display: flex;
                 align-items: center;
-                background: var(--bc);
+                background: var(--nv);
                 .menu{
                     padding: 20px 10px;
                     position: relative;
@@ -202,6 +203,7 @@
             position: relative;
             bottom: 0;
             height: 10vh;
+            background: var(--nv);
             
             .ft{
                 padding: 0px 20px;
