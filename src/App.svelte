@@ -25,7 +25,7 @@
                         <img src="./assets/logo.png" width="50px" alt="logo">
                     </span>
                     <span>
-                        <h1>BSSY</h1>
+                        <h1>LUANAR </h1>
                     </span>    
               </a>        
             </div>
@@ -57,8 +57,6 @@
             </div>
             <ul class="navlist">
                 <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">GET INVOLVED</a></li>
-                <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">DOCS</a></li>
-                <li><a href="https://github.com/Peterbutao/luanar-site-svelte.git">LICENCE</a></li>
                 <li><a href="tel://0880164455">CONTACT</a></li>            
 
             </ul>

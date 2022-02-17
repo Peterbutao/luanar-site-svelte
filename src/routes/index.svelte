@@ -7,7 +7,7 @@
 </svelte:head>
 <article>
     <header>
-        <p>BSSY TIMETABLE FOR BSSY STUDENTS</p>
+        <p>TIMETABLES FOR LUANAR STUDENTS</p>
     </header>
     <main>
         <h1>DOWNLOAD</h1>
